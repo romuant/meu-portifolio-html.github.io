@@ -35,8 +35,10 @@
        }
        .foto1 {
          position: absolute;
-         margin: -120px 600px 101px
-        
+         margin: -120px 600px 101px;
+         border: 2px solid rgb(92, 22, 22);
+         padding: 25px;
+         background-size: 300px 100px;
        }
 
 
