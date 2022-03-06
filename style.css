@@ -1,49 +1,38 @@
-    ul {
-        font-size: x-large
-      }
-      h1 {
-        background-color: aqua;
-      }  
-      h2 {
-        background-color: aqua;
-      }
-        body {
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        background-color: rgb(42, 140, 165);
-      }
-        .coresdaslinhas {
-        color: aqua
-      }
-        .qualies {
-      box-shadow:15px;
-        background-color:rgb(6, 53, 122);
-        width :40%;
-        height:120px;
-        text-align: center;
-              
-      }
-      .qualies:hover{
-        background-color: blueviolet;
-      }
-      
-      
-      
-       body {
-         font-family: fantasy;
-         color:rgb(42, 140, 165);
+ul {
+  font-size: x-large;
+}
+h1 {
+  background-color: aqua;
+}
+h2 {
+  background-color: aqua;
+}
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: rgb(42, 140, 165);
+}
+.coresdaslinhas {
+  color: aqua;
+}
+.navigation {
+  box-shadow: 15px;
+  background-color: rgb(6, 53, 122);
+  width: 40%;
+  height: 120px;
+  text-align: center;
+}
+.navigation:hover {
+  background-color: rgb(16, 17, 17);
+}
 
-       }
-       .foto1 {
-         position: absolute;
-         margin: -120px 600px 101px;
-         border: 2px solid rgb(92, 22, 22);
-         padding: 25px;
-         background-size: 300px 100px;
-       }
-
-
-      
-
-
-        
-      
+body {
+  font-family: fantasy;
+  color: rgb(42, 140, 165);
+}
+.foto1 {
+  position: absolute;
+  margin: -120px 600px 101px;
+  border: 2px solid rgb(92, 22, 22);
+  padding: 25px;
+  background-size: 300px 100px;
+}
