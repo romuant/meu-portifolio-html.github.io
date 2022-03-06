@@ -1,5 +1,5 @@
 ul {
-  font-size: x-large;
+  font-size: xx-large;
 }
 h1 {
   background-color: aqua;
@@ -15,14 +15,16 @@ body {
   color: aqua;
 }
 .navigation {
+  margin:10px 600px;
   box-shadow: 15px;
   background-color: rgb(6, 53, 122);
-  width: 40%;
-  height: 120px;
-  text-align: center;
+  width: 60%;
+  height: 320px;
+  display:inline-block
+  
 }
 .navigation:hover {
-  background-color: rgb(16, 17, 17);
+  background-color: rgb(67, 97, 97);
 }
 
 body {
@@ -31,8 +33,14 @@ body {
 }
 .foto1 {
   position: absolute;
-  margin: -120px 600px 101px;
-  border: 2px solid rgb(92, 22, 22);
-  padding: 25px;
-  background-size: 300px 100px;
+  margin: -346px 30px 101px;
+  border: 1px 5px 5px solid rgb(65, 92, 22);
+  padding: 20px;
+}
+.footer {
+  display:block;
+  margin: 30px;
+  box-shadow: 10px;
+  background-color: rgb(5, 6, 7);
+  padding-left: 130px;;
 }
